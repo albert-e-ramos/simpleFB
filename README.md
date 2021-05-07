@@ -8,4 +8,6 @@ One important thing that I learned, and not mentioned in the tutorial, was the '
 
 I needed the script to wait until the page fully loaded or else the user was unable to see the directions.
 
+I found the answer to my problem on Stack Overflow. Of course!
+
 What can improve: add CSS, make it look pretty, and add a button to launch the script.
